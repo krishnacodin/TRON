@@ -15,7 +15,7 @@ class TronTestCase: XCTestCase {
 
     override func setUp() {
         super.setUp()
-        tron = TRON(baseURL: "https://github.com")
+        tron = TRON(baseURL: "https://topctravel.com")
     }
 
     override func tearDown() {
